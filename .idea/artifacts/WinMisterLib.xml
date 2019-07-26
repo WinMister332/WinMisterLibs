@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WinMisterLib">
+    <output-path>$PROJECT_DIR$/out/artifacts/WinMisterLib</output-path>
+    <root id="archive" name="WinMisterLib.jar">
+      <element id="module-output" name="WinMisterLib" />
+      <element id="library" level="project" name="MySQL" />
+    </root>
+  </artifact>
+</component>

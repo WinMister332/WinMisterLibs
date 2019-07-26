@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Vault">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Vault.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="http://milkbowl.github.io/VaultAPI/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

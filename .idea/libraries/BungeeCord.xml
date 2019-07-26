@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="BungeeCord">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Spigot Libs/BungeeCord.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="http://ci.md-5.net\job\BungeeCord\ws\api\target\apidocs\overview-summery.html" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

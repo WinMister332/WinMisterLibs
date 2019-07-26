@@ -1,0 +1,5 @@
+name: WinMisterLibs
+version: 1.0
+description: WMLibs is a core plugin file that is essential to loading plugins made by WinMister332.
+author: WinMister332
+main: lib.winmister332.wmlib.bungee.main.WMCore
